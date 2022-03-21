@@ -1,187 +1,1475 @@
 <?xml version="1.0" encoding="utf-8"?>
 <items>
-<item><country_name>Japan</country_name><national_Debt_to_GDP_Ratio>237.54%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Venezuela</country_name><national_Debt_to_GDP_Ratio>214.45%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Sudan</country_name><national_Debt_to_GDP_Ratio>177.87%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Greece</country_name><national_Debt_to_GDP_Ratio>174.15%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Lebanon</country_name><national_Debt_to_GDP_Ratio>157.81%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Italy</country_name><national_Debt_to_GDP_Ratio>133.43%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Eritrea</country_name><national_Debt_to_GDP_Ratio>127.34%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Cape Verde</country_name><national_Debt_to_GDP_Ratio>125.29%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Mozambique</country_name><national_Debt_to_GDP_Ratio>124.46%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Portugal</country_name><national_Debt_to_GDP_Ratio>119.46%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Barbados</country_name><national_Debt_to_GDP_Ratio>117.27%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Singapore</country_name><national_Debt_to_GDP_Ratio>109.37%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>United States</country_name><national_Debt_to_GDP_Ratio>106.70%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Bhutan</country_name><national_Debt_to_GDP_Ratio>103.85%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Cyprus</country_name><national_Debt_to_GDP_Ratio>101.04%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Bahrain</country_name><national_Debt_to_GDP_Ratio>100.19%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Belgium</country_name><national_Debt_to_GDP_Ratio>99.57%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>France</country_name><national_Debt_to_GDP_Ratio>99.20%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Spain</country_name><national_Debt_to_GDP_Ratio>95.96%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Jordan</country_name><national_Debt_to_GDP_Ratio>94.83%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Jamaica</country_name><national_Debt_to_GDP_Ratio>94.13%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Belize</country_name><national_Debt_to_GDP_Ratio>92.64%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Angola</country_name><national_Debt_to_GDP_Ratio>90.46%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Brazil</country_name><national_Debt_to_GDP_Ratio>90.36%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Republic of the Congo</country_name><national_Debt_to_GDP_Ratio>90.19%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Antigua And Barbuda</country_name><national_Debt_to_GDP_Ratio>88.35%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Canada</country_name><national_Debt_to_GDP_Ratio>88.01%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Egypt</country_name><national_Debt_to_GDP_Ratio>86.93%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>United Kingdom</country_name><national_Debt_to_GDP_Ratio>85.67%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Aruba</country_name><national_Debt_to_GDP_Ratio>83.57%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Sri Lanka</country_name><national_Debt_to_GDP_Ratio>82.99%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Tunisia</country_name><national_Debt_to_GDP_Ratio>81.55%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Mauritania</country_name><national_Debt_to_GDP_Ratio>80.61%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Zambia</country_name><national_Debt_to_GDP_Ratio>80.50%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Dominica</country_name><national_Debt_to_GDP_Ratio>79.84%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Gambia</country_name><national_Debt_to_GDP_Ratio>78.67%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>San Marino</country_name><national_Debt_to_GDP_Ratio>77.12%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Pakistan</country_name><national_Debt_to_GDP_Ratio>77.00%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Argentina</country_name><national_Debt_to_GDP_Ratio>75.90%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Sao Tome And Principe</country_name><national_Debt_to_GDP_Ratio>74.10%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Sierra Leone</country_name><national_Debt_to_GDP_Ratio>72.37%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Suriname</country_name><national_Debt_to_GDP_Ratio>72.05%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Saint Lucia</country_name><national_Debt_to_GDP_Ratio>71.62%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Saint Vincent And the Grenadines</country_name><national_Debt_to_GDP_Ratio>71.38%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Uruguay</country_name><national_Debt_to_GDP_Ratio>71.34%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Austria</country_name><national_Debt_to_GDP_Ratio>71.17%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Croatia</country_name><national_Debt_to_GDP_Ratio>70.73%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Montenegro</country_name><national_Debt_to_GDP_Ratio>70.58%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Togo</country_name><national_Debt_to_GDP_Ratio>70.39%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>India</country_name><national_Debt_to_GDP_Ratio>69.04%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>El Salvador</country_name><national_Debt_to_GDP_Ratio>68.10%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Mauritius</country_name><national_Debt_to_GDP_Ratio>67.50%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Hungary</country_name><national_Debt_to_GDP_Ratio>66.62%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Slovenia</country_name><national_Debt_to_GDP_Ratio>65.44%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Albania</country_name><national_Debt_to_GDP_Ratio>65.13%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Morocco</country_name><national_Debt_to_GDP_Ratio>65.11%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Laos</country_name><national_Debt_to_GDP_Ratio>64.13%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Burundi</country_name><national_Debt_to_GDP_Ratio>63.54%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Djibouti</country_name><national_Debt_to_GDP_Ratio>62.99%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Ireland</country_name><national_Debt_to_GDP_Ratio>62.42%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Ukraine</country_name><national_Debt_to_GDP_Ratio>62.03%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Senegal</country_name><national_Debt_to_GDP_Ratio>62.00%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Ghana</country_name><national_Debt_to_GDP_Ratio>61.99%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Maldives</country_name><national_Debt_to_GDP_Ratio>61.43%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Oman</country_name><national_Debt_to_GDP_Ratio>61.29%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Bahamas</country_name><national_Debt_to_GDP_Ratio>60.49%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Nauru</country_name><national_Debt_to_GDP_Ratio>60.39%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Finland</country_name><national_Debt_to_GDP_Ratio>59.88%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Saint Kitts And Nevis</country_name><national_Debt_to_GDP_Ratio>59.49%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Malawi</country_name><national_Debt_to_GDP_Ratio>59.01%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Israel</country_name><national_Debt_to_GDP_Ratio>58.96%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Gabon</country_name><national_Debt_to_GDP_Ratio>58.48%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>South Africa</country_name><national_Debt_to_GDP_Ratio>57.81%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Puerto Rico</country_name><national_Debt_to_GDP_Ratio>57.70%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Ethiopia</country_name><national_Debt_to_GDP_Ratio>57.43%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Vietnam</country_name><national_Debt_to_GDP_Ratio>57.36%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Guyana</country_name><national_Debt_to_GDP_Ratio>57.22%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Bolivia</country_name><national_Debt_to_GDP_Ratio>57.11%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Germany</country_name><national_Debt_to_GDP_Ratio>56.93%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Malaysia</country_name><national_Debt_to_GDP_Ratio>56.32%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Costa Rica</country_name><national_Debt_to_GDP_Ratio>56.15%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Grenada</country_name><national_Debt_to_GDP_Ratio>56.12%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Kyrgyzstan</country_name><national_Debt_to_GDP_Ratio>56.09%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Niger</country_name><national_Debt_to_GDP_Ratio>55.60%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Kenya</country_name><national_Debt_to_GDP_Ratio>55.50%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>China</country_name><national_Debt_to_GDP_Ratio>55.36%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Guinea Bissau</country_name><national_Debt_to_GDP_Ratio>54.92%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Yemen</country_name><national_Debt_to_GDP_Ratio>54.51%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Seychelles</country_name><national_Debt_to_GDP_Ratio>54.49%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Mexico</country_name><national_Debt_to_GDP_Ratio>54.11%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Benin</country_name><national_Debt_to_GDP_Ratio>54.00%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Qatar</country_name><national_Debt_to_GDP_Ratio>52.74%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Vanuatu</country_name><national_Debt_to_GDP_Ratio>52.18%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Netherlands</country_name><national_Debt_to_GDP_Ratio>52.04%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Namibia</country_name><national_Debt_to_GDP_Ratio>51.60%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Belarus</country_name><national_Debt_to_GDP_Ratio>51.08%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Serbia</country_name><national_Debt_to_GDP_Ratio>50.95%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Ivory Coast</country_name><national_Debt_to_GDP_Ratio>50.92%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Iraq</country_name><national_Debt_to_GDP_Ratio>50.25%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Fiji</country_name><national_Debt_to_GDP_Ratio>50.22%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Rwanda</country_name><national_Debt_to_GDP_Ratio>50.00%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Trinidad And Tobago</country_name><national_Debt_to_GDP_Ratio>49.75%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Tajikistan</country_name><national_Debt_to_GDP_Ratio>49.46%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Samoa</country_name><national_Debt_to_GDP_Ratio>49.44%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Ecuador</country_name><national_Debt_to_GDP_Ratio>49.20%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Colombia</country_name><national_Debt_to_GDP_Ratio>49.16%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Armenia</country_name><national_Debt_to_GDP_Ratio>47.95%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Poland</country_name><national_Debt_to_GDP_Ratio>47.48%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Algeria</country_name><national_Debt_to_GDP_Ratio>46.92%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Slovakia</country_name><national_Debt_to_GDP_Ratio>46.90%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Liberia</country_name><national_Debt_to_GDP_Ratio>46.66%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Guinea</country_name><national_Debt_to_GDP_Ratio>45.98%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Georgia</country_name><national_Debt_to_GDP_Ratio>45.05%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Uganda</country_name><national_Debt_to_GDP_Ratio>44.81%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Chad</country_name><national_Debt_to_GDP_Ratio>42.91%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Burkina Faso</country_name><national_Debt_to_GDP_Ratio>42.47%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Malta</country_name><national_Debt_to_GDP_Ratio>42.46%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Central African Republic</country_name><national_Debt_to_GDP_Ratio>42.25%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Dominican Republic</country_name><national_Debt_to_GDP_Ratio>41.92%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Thailand</country_name><national_Debt_to_GDP_Ratio>41.47%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Eswatini</country_name><national_Debt_to_GDP_Ratio>41.11%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Australia</country_name><national_Debt_to_GDP_Ratio>41.10%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Madagascar</country_name><national_Debt_to_GDP_Ratio>41.02%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Nicaragua</country_name><national_Debt_to_GDP_Ratio>40.88%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Honduras</country_name><national_Debt_to_GDP_Ratio>40.80%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>South Korea</country_name><national_Debt_to_GDP_Ratio>40.54%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>North Macedonia</country_name><national_Debt_to_GDP_Ratio>40.48%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Switzerland</country_name><national_Debt_to_GDP_Ratio>39.49%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Myanmar</country_name><national_Debt_to_GDP_Ratio>39.19%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Philippines</country_name><national_Debt_to_GDP_Ratio>39.10%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Cameroon</country_name><national_Debt_to_GDP_Ratio>38.11%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Romania</country_name><national_Debt_to_GDP_Ratio>37.99%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Lesotho</country_name><national_Debt_to_GDP_Ratio>37.95%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>South Sudan</country_name><national_Debt_to_GDP_Ratio>37.81%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Panama</country_name><national_Debt_to_GDP_Ratio>37.81%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Papua New Guinea</country_name><national_Debt_to_GDP_Ratio>37.72%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Equatorial Guinea</country_name><national_Debt_to_GDP_Ratio>37.49%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Sweden</country_name><national_Debt_to_GDP_Ratio>37.23%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Mali</country_name><national_Debt_to_GDP_Ratio>36.93%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Norway</country_name><national_Debt_to_GDP_Ratio>36.75%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Latvia</country_name><national_Debt_to_GDP_Ratio>36.66%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Tanzania</country_name><national_Debt_to_GDP_Ratio>36.57%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Bosnia And Herzegovina</country_name><national_Debt_to_GDP_Ratio>36.34%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Haiti</country_name><national_Debt_to_GDP_Ratio>36.23%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Comoros</country_name><national_Debt_to_GDP_Ratio>35.08%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Bangladesh</country_name><national_Debt_to_GDP_Ratio>34.81%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Taiwan</country_name><national_Debt_to_GDP_Ratio>33.91%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Lithuania</country_name><national_Debt_to_GDP_Ratio>33.79%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Denmark</country_name><national_Debt_to_GDP_Ratio>33.61%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Iceland</country_name><national_Debt_to_GDP_Ratio>33.13%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Nepal</country_name><national_Debt_to_GDP_Ratio>33.07%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Czech Republic</country_name><national_Debt_to_GDP_Ratio>31.57%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Turkmenistan</country_name><national_Debt_to_GDP_Ratio>30.25%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Nigeria</country_name><national_Debt_to_GDP_Ratio>30.05%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Iran</country_name><national_Debt_to_GDP_Ratio>30.04%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Turkey</country_name><national_Debt_to_GDP_Ratio>29.93%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Cambodia</country_name><national_Debt_to_GDP_Ratio>29.57%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Indonesia</country_name><national_Debt_to_GDP_Ratio>29.29%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Moldova</country_name><national_Debt_to_GDP_Ratio>28.82%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>New Zealand</country_name><national_Debt_to_GDP_Ratio>28.07%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Peru</country_name><national_Debt_to_GDP_Ratio>27.18%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Chile</country_name><national_Debt_to_GDP_Ratio>27.17%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Guatemala</country_name><national_Debt_to_GDP_Ratio>24.76%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Saudi Arabia</country_name><national_Debt_to_GDP_Ratio>23.71%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Kiribati</country_name><national_Debt_to_GDP_Ratio>23.48%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Marshall Islands</country_name><national_Debt_to_GDP_Ratio>23.37%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Uzbekistan</country_name><national_Debt_to_GDP_Ratio>23.23%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Paraguay</country_name><national_Debt_to_GDP_Ratio>22.37%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Tuvalu</country_name><national_Debt_to_GDP_Ratio>21.81%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Luxembourg</country_name><national_Debt_to_GDP_Ratio>21.61%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Zimbabwe</country_name><national_Debt_to_GDP_Ratio>20.99%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Kazakhstan</country_name><national_Debt_to_GDP_Ratio>20.90%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Bulgaria</country_name><national_Debt_to_GDP_Ratio>19.33%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>United Arab Emirates</country_name><national_Debt_to_GDP_Ratio>19.20%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Micronesia</country_name><national_Debt_to_GDP_Ratio>18.41%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Kuwait</country_name><national_Debt_to_GDP_Ratio>17.78%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Azerbaijan</country_name><national_Debt_to_GDP_Ratio>17.59%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Solomon Islands</country_name><national_Debt_to_GDP_Ratio>14.56%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>DR Congo</country_name><national_Debt_to_GDP_Ratio>14.01%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Russia</country_name><national_Debt_to_GDP_Ratio>13.79%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Botswana</country_name><national_Debt_to_GDP_Ratio>12.78%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Estonia</country_name><national_Debt_to_GDP_Ratio>7.61%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Afghanistan</country_name><national_Debt_to_GDP_Ratio>6.88%</national_Debt_to_GDP_Ratio></item>
-<item><country_name>Brunei</country_name><national_Debt_to_GDP_Ratio>2.63%</national_Debt_to_GDP_Ratio></item>
+	<item>
+		<country_name>
+			Japan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			237.54%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Venezuela
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			214.45%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Sudan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			177.87%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Greece
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			174.15%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Lebanon
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			157.81%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Italy
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			133.43%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Eritrea
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			127.34%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Cape Verde
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			125.29%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Mozambique
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			124.46%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Portugal
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			119.46%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Barbados
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			117.27%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Singapore
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			109.37%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			United States
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			106.70%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Bhutan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			103.85%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Cyprus
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			101.04%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Bahrain
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			100.19%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Belgium
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			99.57%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			France
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			99.20%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Spain
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			95.96%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Jordan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			94.83%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Jamaica
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			94.13%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Belize
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			92.64%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Angola
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			90.46%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Brazil
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			90.36%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Republic of the Congo
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			90.19%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Antigua And Barbuda
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			88.35%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Canada
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			88.01%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Egypt
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			86.93%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			United Kingdom
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			85.67%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Aruba
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			83.57%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Sri Lanka
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			82.99%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Tunisia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			81.55%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Mauritania
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			80.61%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Zambia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			80.50%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Dominica
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			79.84%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Gambia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			78.67%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			San Marino
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			77.12%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Pakistan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			77.00%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Argentina
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			75.90%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Sao Tome And Principe
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			74.10%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Sierra Leone
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			72.37%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Suriname
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			72.05%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Saint Lucia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			71.62%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Saint Vincent And the Grenadines
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			71.38%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Uruguay
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			71.34%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Austria
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			71.17%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Croatia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			70.73%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Montenegro
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			70.58%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Togo
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			70.39%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			India
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			69.04%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			El Salvador
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			68.10%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Mauritius
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			67.50%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Hungary
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			66.62%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Slovenia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			65.44%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Albania
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			65.13%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Morocco
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			65.11%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Laos
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			64.13%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Burundi
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			63.54%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Djibouti
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			62.99%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Ireland
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			62.42%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Ukraine
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			62.03%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Senegal
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			62.00%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Ghana
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			61.99%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Maldives
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			61.43%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Oman
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			61.29%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Bahamas
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			60.49%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Nauru
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			60.39%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Finland
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			59.88%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Saint Kitts And Nevis
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			59.49%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Malawi
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			59.01%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Israel
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			58.96%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Gabon
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			58.48%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			South Africa
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			57.81%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Puerto Rico
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			57.70%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Ethiopia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			57.43%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Vietnam
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			57.36%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Guyana
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			57.22%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Bolivia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			57.11%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Germany
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			56.93%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Malaysia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			56.32%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Costa Rica
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			56.15%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Grenada
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			56.12%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Kyrgyzstan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			56.09%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Niger
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			55.60%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Kenya
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			55.50%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			China
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			55.36%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Guinea Bissau
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			54.92%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Yemen
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			54.51%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Seychelles
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			54.49%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Mexico
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			54.11%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Benin
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			54.00%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Qatar
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			52.74%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Vanuatu
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			52.18%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Netherlands
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			52.04%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Namibia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			51.60%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Belarus
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			51.08%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Serbia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			50.95%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Ivory Coast
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			50.92%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Iraq
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			50.25%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Fiji
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			50.22%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Rwanda
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			50.00%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Trinidad And Tobago
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			49.75%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Tajikistan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			49.46%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Samoa
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			49.44%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Ecuador
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			49.20%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Colombia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			49.16%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Armenia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			47.95%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Poland
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			47.48%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Algeria
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			46.92%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Slovakia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			46.90%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Liberia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			46.66%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Guinea
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			45.98%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Georgia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			45.05%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Uganda
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			44.81%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Chad
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			42.91%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Burkina Faso
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			42.47%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Malta
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			42.46%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Central African Republic
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			42.25%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Dominican Republic
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			41.92%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Thailand
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			41.47%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Eswatini
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			41.11%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Australia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			41.10%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Madagascar
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			41.02%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Nicaragua
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			40.88%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Honduras
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			40.80%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			South Korea
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			40.54%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			North Macedonia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			40.48%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Switzerland
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			39.49%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Myanmar
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			39.19%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Philippines
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			39.10%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Cameroon
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			38.11%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Romania
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			37.99%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Lesotho
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			37.95%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			South Sudan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			37.81%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Panama
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			37.81%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Papua New Guinea
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			37.72%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Equatorial Guinea
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			37.49%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Sweden
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			37.23%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Mali
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			36.93%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Norway
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			36.75%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Latvia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			36.66%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Tanzania
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			36.57%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Bosnia And Herzegovina
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			36.34%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Haiti
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			36.23%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Comoros
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			35.08%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Bangladesh
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			34.81%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Taiwan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			33.91%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Lithuania
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			33.79%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Denmark
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			33.61%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Iceland
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			33.13%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Nepal
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			33.07%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Czech Republic
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			31.57%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Turkmenistan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			30.25%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Nigeria
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			30.05%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Iran
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			30.04%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Turkey
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			29.93%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Cambodia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			29.57%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Indonesia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			29.29%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Moldova
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			28.82%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			New Zealand
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			28.07%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Peru
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			27.18%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Chile
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			27.17%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Guatemala
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			24.76%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Saudi Arabia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			23.71%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Kiribati
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			23.48%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Marshall Islands
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			23.37%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Uzbekistan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			23.23%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Paraguay
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			22.37%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Tuvalu
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			21.81%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Luxembourg
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			21.61%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Zimbabwe
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			20.99%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Kazakhstan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			20.90%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Bulgaria
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			19.33%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			United Arab Emirates
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			19.20%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Micronesia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			18.41%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Kuwait
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			17.78%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Azerbaijan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			17.59%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Solomon Islands
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			14.56%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			DR Congo
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			14.01%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Russia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			13.79%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Botswana
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			12.78%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Estonia
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			7.61%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Afghanistan
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			6.88%
+		</national_Debt_to_GDP_Ratio>
+	</item>
+	<item>
+		<country_name>
+			Brunei
+		</country_name>
+		<national_Debt_to_GDP_Ratio>
+			2.63%
+		</national_Debt_to_GDP_Ratio>
+	</item>
 </items>
